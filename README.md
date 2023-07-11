@@ -35,3 +35,11 @@ Output
 
 Explanation:
 The input is 15. So the output is also 15.
+
+# CODE
+		
+		int input=sc.nextInt();
+		int output=input;
+		
+		System.out.println(output);
+
